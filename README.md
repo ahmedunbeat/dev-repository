@@ -15,9 +15,9 @@ My current track is.
      6    | BauchiUtils  | A 15-function library
      7    | Student Records  | An in-memory CRUD database
      8    | This portfolio   | Set up and configured this repo
- Assessment | Expense Tracker | A nairatrack expenses tracker
+     9    | Assessment task| | Nairatrack expenses tracker
 
 ## HOW TO REACH ME:
 
--Github: [@ahmedunbeat] (https://github.com/ahmedunbeat)
+- Github: [@ahmedunbeat] (https://github.com/ahmedunbeat)
 - Email: ahmedunbit@gmail.com
