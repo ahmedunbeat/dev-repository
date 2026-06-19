@@ -1,3 +1,4 @@
+![Banner](./banner.png)
  # AHMED YUSUF - Software Engineering Portfolio - 
 
 Welcome! This is the home of every project I build during the Uplift Bootcamp
