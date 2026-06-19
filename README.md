@@ -6,13 +6,13 @@ and beyond.
 ## ABOUT ME:
 
 I am based in Jos, Nigeria and learning through the Uplift Bootcamp.
-My current track is.
+My current track is_________________.
 
 ### BOOTCAMP PROJECTS
 
-|   WEEK   |    PROJECT   |   DESCRIPTION   
+|   WEEK   |    PROJECT   |       DESCRIPTION   
 |----------|--------------|------------------
-     6    | BauchiUtils  | A 15-function library
+     6    | BauchiUtils      | A 15-function library
      7    | Student Records  | An in-memory CRUD database
      8    | This portfolio   | Set up and configured this repo
      9    | Assessment task| | Nairatrack expenses tracker
