@@ -17,8 +17,10 @@ My current track is_________________.
      7    | Student Records  | An in-memory CRUD database
      8    | This portfolio   | Set up and configured this repo
      9    | Assessment task| | Nairatrack expenses tracker
-
-## HOW TO REACH ME:
+     10   | System diagnostics | A Node CLI that reports system info, with proper
+                               | stdout/stderr separation. 
+                               | [Repo] 
+                               (https://github.com/ahmedunbeat/system-diagnostics.git)
 
 - Github: [@ahmedunbeat] (https://github.com/ahmedunbeat)
 - Email: ahmedunbit@gmail.com
